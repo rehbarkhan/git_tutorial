@@ -1,0 +1,23 @@
+commit 0fc330d0f052aef4280bf8d639ad2378e1c5242e
+Author: rehbarkhan <md.rehbar@outlook.com>
+Date:   Sat Jan 23 16:01:26 2021 +0530
+
+    Added boilderpate code to contact/monumnets.html
+
+commit 7f963dfa31ef15af19e26d4fbffbca85d990587b
+Author: rehbarkhan <md.rehbar@outlook.com>
+Date:   Sat Jan 23 15:57:35 2021 +0530
+
+    Added boilerplate code for about.html
+
+commit d485750d451622067cdfc3e4d8c5bf3a84cec952
+Author: rehbarkhan <md.rehbar@outlook.com>
+Date:   Sat Jan 23 15:54:41 2021 +0530
+
+    Second Commit
+
+commit f9c7947270808bf0d96e7a3b496301af535bbba3
+Author: rehbarkhan <md.rehbar@outlook.com>
+Date:   Sat Jan 23 15:52:36 2021 +0530
+
+    Initial Commit
